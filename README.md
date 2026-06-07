@@ -18,7 +18,7 @@ Currently improving my JavaScript skills and working on real projects using HTML
 
 ---
 
-### 🎵 SPUN — Music Journal App (In Progress)
+### 🎵 SPUN - Music Journal App (In Progress)
 A vanilla JavaScript web app inspired by Letterboxd, designed for tracking and journaling music listening experiences.
 
 This project focuses on strengthening core frontend fundamentals and introducing backend thinking through structured data handling.
