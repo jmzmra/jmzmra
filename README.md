@@ -18,14 +18,6 @@ Currently improving my JavaScript skills and working on real projects using HTML
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmzmra&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmzmra&layout=compact&theme=tokyonight)
-
----
-
 ### 🎵 SPUN — Music Journal App (In Progress)
 A vanilla JavaScript web app inspired by Letterboxd, designed for tracking and journaling music listening experiences.
 
