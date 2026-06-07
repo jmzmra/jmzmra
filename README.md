@@ -22,7 +22,7 @@ Currently improving my JavaScript skills and working on real projects using HTML
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmzmra&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmzmra&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmzmra&layout=compact&theme=tokyonight)
 
 ---
 
