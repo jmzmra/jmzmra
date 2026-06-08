@@ -2,8 +2,7 @@
 
 ## 💻 Frontend Developer in Progress
 
-I’m a frontend developer focused on building clean, responsive, and user-friendly web interfaces.  
-Currently improving my JavaScript skills and working on real projects using HTML, CSS, and React.
+I’m a frontend developer focused on building clean, responsive, and user-friendly web interfaces. Currently improving my JavaScript skills and working on real projects using HTML, CSS, and React.
 
 ---
 
